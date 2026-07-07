@@ -1,0 +1,6 @@
+nohup: ignoring input
+
+> dev
+> tsx src/index.ts
+
+JoeOS API running on 8787

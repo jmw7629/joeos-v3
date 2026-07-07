@@ -1,0 +1,13 @@
+{
+  "project": "JoeOS",
+  "mode": "development",
+  "goal": "Build a clean executive AI engineering console",
+  "style": "Apple Vision Pro + Linear + Raycast",
+  "stack": "React + Express",
+  "rules": [
+    "Every button must visibly work",
+    "Frontend and backend stay separate",
+    "Builder writes real files",
+    "Logs and memory are persistent"
+  ]
+}

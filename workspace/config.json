@@ -1,0 +1,6 @@
+{
+  "workspace": "joeos-v3",
+  "apiPort": 8787,
+  "dashboardPort": 5173,
+  "status": "active"
+}

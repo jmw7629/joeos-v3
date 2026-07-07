@@ -1,0 +1,8 @@
+{
+  "Executive": "Ready",
+  "Planner": "Ready",
+  "Architect": "Ready",
+  "Developer": "Ready",
+  "QA": "Ready",
+  "Deployment": "Standby"
+}
